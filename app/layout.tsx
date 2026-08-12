@@ -3,7 +3,8 @@ import '../styles/globals.css';
 export const metadata = {
   title: 'On-Demand ISR · EdgeOne Makers',
   description:
-    'Next.js on-demand Incremental Static Regeneration template, deployed on EdgeOne Makers.'
+    'Next.js on-demand Incremental Static Regeneration template, deployed on EdgeOne Makers. · Demo only'
+  keywords: "EdgeOne Makers, Demo only",
 };
 
 // Runs before paint: applies the saved language to <html data-lang> so CSS shows the right
